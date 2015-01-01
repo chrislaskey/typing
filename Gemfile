@@ -31,5 +31,11 @@ group :development, :test do
   gem 'pry-rescue'
   gem 'pry-stack_explorer'
   gem 'spring'
-end
 
+  gem 'capybara'
+  gem 'rspec'
+  gem 'rspec-activemodel-mocks'
+  gem 'rspec-instafail'
+  gem 'rspec-rails'
+  gem 'spring-commands-rspec'
+end
