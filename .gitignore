@@ -15,3 +15,9 @@
 /log/*
 !/log/.keep
 /tmp
+
+# Ignore Mac OS X
+*.DS_Store
+
+# Ignore Node modules
+node_modules
